@@ -1,0 +1,3725 @@
+[
+  {
+    "items": [
+      {
+        "id": "89295935",
+        "premium": false,
+        "name": "Администратор проектов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 96000,
+          "to": 138000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-01T15:13:03+0300",
+        "created_at": "2023-12-01T15:13:03+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89295935",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/89295935?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/89295935",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование: высшее. Владение ПК на уровне опытного пользователя: Microsoft Office (Word, Excel, PowerPoint, Outlook), будет плюсом знание MS Project. ",
+          "responsibility": "Работа с общим почтовым ящиком проекта. Маршрутизация и контроль предоставления обратной связи по поступающим вопросам и обращениям. Ведение календаря встреч..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "107",
+            "name": "Руководитель проектов"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90470157",
+        "premium": false,
+        "name": "Помощник руководителя (референт)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": true,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 84000,
+          "to": 120036,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-08T09:39:01+0300",
+        "created_at": "2023-12-08T09:39:01+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90470157",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90470157?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90470157",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование: высшее. Владение ПК на уровне опытного пользователя: Microsoft Office (Word, Excel, PowerPoint). Навыки работы с системами электронного документооборота (СЭД). ",
+          "responsibility": "Административная поддержка двух руководителей. Подготовка документов (приказов, указаний, распоряжений, докладов и т.д.) по поручению директора. Подготовка проектов резолюций и..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "110",
+            "name": "Секретарь, помощник руководителя, ассистент"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "84506678",
+        "premium": false,
+        "name": "Бортпроводник",
+        "department": null,
+        "has_test": true,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 100000,
+          "to": null,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "городской округ Химки",
+          "street": "аэропорт Шереметьево",
+          "building": null,
+          "lat": 55.966786,
+          "lng": 37.415685,
+          "description": null,
+          "raw": "городской округ Химки, аэропорт Шереметьево",
+          "metro": null,
+          "metro_stations": [],
+          "id": "1036888"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-17T12:24:51+0300",
+        "created_at": "2023-12-17T12:24:51+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=84506678",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/84506678?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/84506678",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Желание работать в Аэрофлоте. Доброжелательность, коммуникабельность, ответственность, дисциплинированность. Образование не ниже полного среднего (11 классов). Владение английским языком на уровне...",
+          "responsibility": "Создание атмосферы гостеприимства и комфорта на борту воздушного судна в составе экипажа."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "flexible",
+          "name": "Гибкий график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "159",
+            "name": "Бортпроводник"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90572397",
+        "premium": false,
+        "name": "Главный специалист аналитического отдела",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "улица Арбат",
+          "building": "1",
+          "lat": 55.751812,
+          "lng": 37.599292,
+          "description": null,
+          "raw": "Москва, улица Арбат, 1",
+          "metro": null,
+          "metro_stations": [],
+          "id": "2387657"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-11T17:40:21+0300",
+        "created_at": "2023-12-11T17:40:21+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90572397",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90572397?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90572397",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование: высшее, преимуществом будет экономическая сфера. Знания в области принципов управленческого учета, финансового и коммерческого анализа. Опыт проведения комплексного анализа...",
+          "responsibility": "Сбор и обработка данных из различных внутренних и внешних источников. Анализ результатов деятельности, подготовка справок и презентаций для принятия решений. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "10",
+            "name": "Аналитик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "89687032",
+        "premium": false,
+        "name": "Специалист",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 60000,
+          "to": 80000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Международное шоссе",
+          "building": "31с1",
+          "lat": 55.9506,
+          "lng": 37.412128,
+          "description": null,
+          "raw": "Москва, Международное шоссе, 31с1",
+          "metro": null,
+          "metro_stations": [],
+          "id": "170854"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-11-20T16:15:58+0300",
+        "created_at": "2023-11-20T16:15:58+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89687032",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/89687032?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/89687032",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее профессиональное образование (техническое/техническо-авиационное/экономическое). Знание основ статистики и аналитики. Уверенный пользователь ПК (Microsoft Office, Microsoft Excel, Power...",
+          "responsibility": "Производить анализ предоставляемых данных по контролируемым департаментом параметрам качества наземного обслуживания воздушных судов ПАО \"Аэрофлот\" и сторонними организациями, с целью..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "10",
+            "name": "Аналитик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "88839991",
+        "premium": false,
+        "name": "Специалист по документационному обеспечению",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-07T11:18:51+0300",
+        "created_at": "2023-12-07T11:18:51+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88839991",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/88839991?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/88839991",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование (желательно по специальности управление персоналом). Опыт работы от 1 года. Опыт в разработке и написании регламентов, положений и...",
+          "responsibility": "Заказ канцелярии, оформление пропусков, решение текущих вопросов по офису во взаимодействии с администрацией БЦ, отправка/получение почты. Пожарная безопасность (проведем..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "88102247",
+        "premium": false,
+        "name": "Менеджер проектов (сайт и мобильное приложение)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 101000,
+          "to": 131000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-14T15:22:46+0300",
+        "created_at": "2023-12-14T15:22:46+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=88102247",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/88102247?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/88102247",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование. Опыт работы руководителем проекта в сфере онлайн-продаж не менее 2-х лет (желательно в сфере авиаперевозок и...",
+          "responsibility": "Управление проектами и задачами в области бронирования авиабилетов, онлайн-регистрации на рейс, покупки дополнительных услуг, оплаты заказов. Сбор и формирование..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "107",
+            "name": "Руководитель проектов"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90693766",
+        "premium": false,
+        "name": "Врач-офтальмолог",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Песчаная улица",
+          "building": "7",
+          "lat": 55.801976,
+          "lng": 37.514796,
+          "description": null,
+          "raw": "Москва, Песчаная улица, 7",
+          "metro": null,
+          "metro_stations": [],
+          "id": "381561"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-14T15:42:46+0300",
+        "created_at": "2023-12-14T15:42:46+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90693766",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90693766?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90693766",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее медицинское образование. Опыт работы не менее 2-х лет. Наличие действующего сертификата специалиста или свидетельства об аккредитации по специальности...",
+          "responsibility": "Амбулаторный прием пациентов: сбор анамнеза и назначение лечения. Квалифицированное оказание медицинской помощи в рамках амбулаторно-поликлинической практики согласно медицинским стандартам. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "24",
+            "name": "Врач"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90608979",
+        "premium": false,
+        "name": "Инженер по техническому обслуживанию авиационной техники (ПиД или АиРЭО)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "городской округ Химки",
+          "street": "аэропорт Шереметьево",
+          "building": null,
+          "lat": 55.966786,
+          "lng": 37.415685,
+          "description": null,
+          "raw": "городской округ Химки, аэропорт Шереметьево",
+          "metro": null,
+          "metro_stations": [],
+          "id": "1036888"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-12T15:11:15+0300",
+        "created_at": "2023-12-12T15:11:15+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90608979",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90608979?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90608979",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее профессиональное (авиационное) образование. Уверенное знание самолетных систем, конструкции планера ВС, устройства шасси, двигателя, ВСУ. Обучение на один из типов...",
+          "responsibility": "Контроль ТО и устранения дефектов на парке ВС. Разработка программы по поиску и устранению неисправностей. Анализ и разработка мероприятий по..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "48",
+            "name": "Инженер-конструктор, инженер-проектировщик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90396700",
+        "premium": false,
+        "name": "Специалист по информационной безопасности",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-06T15:15:15+0300",
+        "created_at": "2023-12-06T15:15:15+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90396700",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90396700?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90396700",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Профильное образование в области ИБ или повышение квалификации. Опыт работы в области ИБ от 3-х лет. Знание требований регуляторов...",
+          "responsibility": "Участие в разработке и поддержании в актуальном состоянии организационно-распорядительной документации в области информационной безопасности (политики, регламенты, инструкции). "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "remote",
+          "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "116",
+            "name": "Специалист по информационной безопасности"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90394220",
+        "premium": false,
+        "name": "Главный специалист отдела маркетинговых коммуникаций (Digital)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 135000,
+          "to": 175000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "улица Арбат",
+          "building": "1",
+          "lat": 55.751812,
+          "lng": 37.599292,
+          "description": null,
+          "raw": "Москва, улица Арбат, 1",
+          "metro": null,
+          "metro_stations": [],
+          "id": "2387657"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-06T14:47:36+0300",
+        "created_at": "2023-12-06T14:47:36+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90394220",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90394220?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90394220",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование. Знание 223-ФЗ и понимание процессов закупки в рамках законодательства. Знание каналов коммуникации и основных игроков рынка (рекламные...",
+          "responsibility": "Участие в формировании годового бюджета, планирование каналов коммуникации в части digital. Участие в подготовке документации для проведения закупочных процедур в..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "flexible",
+          "name": "Гибкий график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "163",
+            "name": "Маркетолог-аналитик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90693991",
+        "premium": false,
+        "name": "Врач травматолог-ортопед",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Песчаная улица",
+          "building": "7",
+          "lat": 55.801976,
+          "lng": 37.514796,
+          "description": null,
+          "raw": "Москва, Песчаная улица, 7",
+          "metro": null,
+          "metro_stations": [],
+          "id": "381561"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-14T15:47:27+0300",
+        "created_at": "2023-12-14T15:47:27+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90693991",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90693991?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90693991",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее медицинское образование. Опыт работы не менее 2-х лет. Наличие действующего сертификата специалиста или свидетельства об аккредитации по специальности...",
+          "responsibility": "Амбулаторный прием пациентов: сбор анамнеза и назначение лечения. Квалифицированное оказание медицинской помощи в рамках амбулаторно-поликлинической практики согласно медицинским стандартам. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "24",
+            "name": "Врач"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "87720290",
+        "premium": false,
+        "name": "Экономист",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": null,
+          "to": 130000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Овчинниковская набережная",
+          "building": "18/1с1",
+          "lat": 55.743857,
+          "lng": 37.632601,
+          "description": null,
+          "raw": "Москва, Овчинниковская набережная, 18/1с1",
+          "metro": {
+            "station_name": "Новокузнецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.89",
+            "line_id": "2",
+            "lat": 55.742391,
+            "lng": 37.62928
+          },
+          "metro_stations": [
+            {
+              "station_name": "Новокузнецкая",
+              "line_name": "Замоскворецкая",
+              "station_id": "2.89",
+              "line_id": "2",
+              "lat": 55.742391,
+              "lng": 37.62928
+            }
+          ],
+          "id": "14138189"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-11-27T12:55:27+0300",
+        "created_at": "2023-11-27T12:55:27+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=87720290",
+        "show_logo_in_search": null,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/87720290?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/87720290",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование: высшее профессиональное по профилю должности. Опыт работы: от 3-х лет по профилю должности. ПО: MS Excel (опытный пользователь...",
+          "responsibility": "Формирование управленческой отчетности (регулярной, по запросу, в Группу). Бюджетирование (годовое, скользящее, корректировки бюджета). Бюджетный контроль. Оценка эффективности проектов, инвестиционное моделирование. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "142",
+            "name": "Экономист"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90287308",
+        "premium": false,
+        "name": "Диспетчер по организации пассажирских авиационных перевозок",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "54",
+          "name": "Красноярск",
+          "url": "https://api.hh.ru/areas/54"
+        },
+        "salary": {
+          "from": 31000,
+          "to": 53000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Емельяновский район",
+          "street": "аэропорт Красноярск имени Д.А. Хворостовского",
+          "building": null,
+          "lat": 56.180698,
+          "lng": 92.486499,
+          "description": null,
+          "raw": "Емельяновский район, аэропорт Красноярск имени Д.А. Хворостовского",
+          "metro": null,
+          "metro_stations": [],
+          "id": "14790087"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-04T15:30:08+0300",
+        "created_at": "2023-12-04T15:30:08+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90287308",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90287308?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90287308",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование среднее специальное или высшее. Уровень знания английского языка - базовый. Уверенный пользователь ПК, MS Office. Умение работать в команде, коммуникабельность...",
+          "responsibility": "Регистрация пассажиров и оформление багажа. Контроль посадки пассажиров на борт воздушного судна. Работа с пассажирами в сбойных ситуациях. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "39",
+            "name": "Диспетчер"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "89047732",
+        "premium": false,
+        "name": "SEO-специалист c функциями контент-менеджера",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 98000,
+          "to": 127000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "улица Арбат",
+          "building": "1",
+          "lat": 55.751817,
+          "lng": 37.599292,
+          "description": null,
+          "raw": "Москва, улица Арбат, 1",
+          "metro": null,
+          "metro_stations": [],
+          "id": "5931975"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-11-29T11:35:58+0300",
+        "created_at": "2023-11-29T11:35:58+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89047732",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/89047732?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/89047732",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование. Знание современных технологий верстки, HTML, CSS, основы JS. Знание особенностей работы поисковых систем. Понимание принципов увеличения качественного роста...",
+          "responsibility": "Работа со структурой сайта в Django CMS (верстать, править и создавать страницы в CMS сайта). Размещение текстового, графического и видео..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "remote",
+          "name": "Удаленная работа"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "3",
+            "name": "SMM-менеджер, контент-менеджер"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "89294739",
+        "premium": false,
+        "name": "Бизнес-аналитик (проектный офис)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Международное шоссе",
+          "building": "31с1",
+          "lat": 55.951134,
+          "lng": 37.412298,
+          "description": null,
+          "raw": "Москва, Международное шоссе, 31с1",
+          "metro": null,
+          "metro_stations": [],
+          "id": "6470131"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-07T16:56:00+0300",
+        "created_at": "2023-12-07T16:56:00+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89294739",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/89294739?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/89294739",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Опыт участия в проектах по внедрению информационных систем и/или проектах организационной трансформации. Опыт сбора и анализа данных о бизнес...",
+          "responsibility": "Участие в проектах по внедрению информационных систем и/или проектах организационной трансформации. Сбор и анализ данных о бизнес-процессах, описание..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "150",
+            "name": "Бизнес-аналитик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "89298581",
+        "premium": false,
+        "name": "Ведущий специалист по кадрам",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "2077",
+          "name": "Химки",
+          "url": "https://api.hh.ru/areas/2077"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Международное шоссе",
+          "building": "31",
+          "lat": 55.9513,
+          "lng": 37.411598,
+          "description": null,
+          "raw": "Москва, Международное шоссе, 31",
+          "metro": null,
+          "metro_stations": [],
+          "id": "223393"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-10T11:51:40+0300",
+        "created_at": "2023-12-10T11:51:40+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89298581",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/89298581?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/89298581",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование высшее профессиональное. Опыт работы от 3-х лет. Знание ТК РФ. Знание порядка оформления, ведения и хранения кадровой документации. ",
+          "responsibility": "Осуществление работы по кадровому администрированию трудовых отношений. Оформление кадровых документов с работниками ( прием, перевод, увольнение и другие кадровые мероприятия в..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "117",
+            "name": "Специалист по кадрам"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90572352",
+        "premium": false,
+        "name": "Специалист по развитию платежных сервисов и систем",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 108680,
+          "to": null,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-11T17:39:11+0300",
+        "created_at": "2023-12-11T17:39:11+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90572352",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90572352?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90572352",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование. Знание правил и принципов работы платежных систем, понимание процессов проведения онлайн-платежей. Наличие экспертизы в банковской сфере и...",
+          "responsibility": "Управление проектами и задачами, направленными на развитие платежных сервисов и систем (сбор требований, расчет эффективности реализации, работа с подрядчиками над..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "137",
+            "name": "Финансовый менеджер"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90191000",
+        "premium": false,
+        "name": "Ведущий финансовый аналитик (Департамент \"Аэрофлот-Бонус\")",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-01T12:02:34+0300",
+        "created_at": "2023-12-01T12:02:34+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90191000",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90191000?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90191000",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование: высшее экономическое. Опыт работы на смежной или аналогичной должности не менее 3 лет. Профессиональное знание Excel. Знание английского языка...",
+          "responsibility": "Подготовка финансовых моделей, отчётности и аналитической информации для руководства. Подготовка технико-экономических обоснований, паспортов проекта, прогнозных и экономических моделей по..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "134",
+            "name": "Финансовый аналитик, инвестиционный аналитик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "89389679",
+        "premium": false,
+        "name": "Инженер по обслуживанию ЦОД (Центр обработки данных)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "Международное шоссе",
+          "building": "31",
+          "lat": 55.9513,
+          "lng": 37.411598,
+          "description": null,
+          "raw": "Москва, Международное шоссе, 31",
+          "metro": null,
+          "metro_stations": [],
+          "id": "223393"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-13T15:48:49+0300",
+        "created_at": "2023-12-13T15:48:49+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89389679",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/89389679?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/89389679",
+        "relations": [],
+        "employer": {
+          "id": "1373",
+          "name": "Аэрофлот",
+          "url": "https://api.hh.ru/employers/1373",
+          "alternate_url": "https://hh.ru/employer/1373",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/308934.jpeg",
+            "240": "https://hhcdn.ru/employer-logo/381791.jpeg",
+            "original": "https://hhcdn.ru/employer-logo-original/232948.JPG"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1373",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование высшее техническое. Опыт работы по специальности не менее 3 лет. Опыт пуско-наладочных работ серверного оборудования иностранного и отечественного...",
+          "responsibility": "Участие в развертывании / модернизации аппаратно-программных комплексов на базе оборудования HPE и системного ПО MS Windows Server 20xx / Linux. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "114",
+            "name": "Системный инженер"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between3And6",
+          "name": "От 3 до 6 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      }
+    ],
+    "found": 96,
+    "pages": 5,
+    "page": 0,
+    "per_page": 20,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": null,
+    "alternate_url": "https://hh.ru/search/vacancy?employer_id=1373&enable_snippets=true"
+  },
+  {
+    "items": [
+      {
+        "id": "90653406",
+        "premium": false,
+        "name": "Специалист по управлению персоналом I категории",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "26",
+          "name": "Воронеж",
+          "url": "https://api.hh.ru/areas/26"
+        },
+        "salary": {
+          "from": 66000,
+          "to": 66000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Воронеж",
+          "street": "Отличников",
+          "building": "6д",
+          "lat": 51.637617,
+          "lng": 39.263205,
+          "description": null,
+          "raw": "Воронеж, Отличников, 6д",
+          "metro": null,
+          "metro_stations": [],
+          "id": "12364077"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-13T15:31:26+0300",
+        "created_at": "2023-12-13T15:31:26+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90653406",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90653406?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90653406",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Опыт работы от 1 года. Опыт работы в программе SAP будет являться преимуществом.",
+          "responsibility": "Формирование планов обучения работников дирекции, контроль своевременного обучения, переподготовки, повышения квалификации руководителей, специалистов, рабочих дирекции. Формирование отчетов в военно-учетные..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90586558",
+        "premium": false,
+        "name": "Диспетчер",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 85000,
+          "to": 91000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-12T09:37:18+0300",
+        "created_at": "2023-12-12T09:37:18+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90586558",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90586558?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90586558",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее профильное образование (автоматика и телемеханика). Добросовестность, работоспособность, объективность, аналитические способности, социально-психологические и нравственные качества, коммуникабельность, порядочность, корректность, восприимчивость...",
+          "responsibility": "Оперативный контроль за действием линейных работников при выполнении графика тех. процесса и при устранении повреждений. Проведение целевых инструктажей. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "39",
+            "name": "Диспетчер"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90584519",
+        "premium": false,
+        "name": "Оператор ПК",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "112",
+          "name": "Ярославль",
+          "url": "https://api.hh.ru/areas/112"
+        },
+        "salary": {
+          "from": 34000,
+          "to": 34000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-12T09:04:52+0300",
+        "created_at": "2023-12-12T09:04:52+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90584519",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90584519?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90584519",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование основное общее (9 кл.).",
+          "responsibility": "Занесение и обработка информации в системы данных. Оформление и контроль заявок. Выдача документов. Ведение отчетности."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "84",
+            "name": "Оператор ПК, оператор базы данных"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90671581",
+        "premium": false,
+        "name": "Заместитель директора санатория-профилактория",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1225",
+          "name": "Новоалтайск",
+          "url": "https://api.hh.ru/areas/1225"
+        },
+        "salary": {
+          "from": 76000,
+          "to": 130000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Новоалтайск",
+          "street": "Ушакова",
+          "building": "8",
+          "lat": 53.42296,
+          "lng": 83.92841,
+          "description": null,
+          "raw": "Новоалтайск, Ушакова, 8",
+          "metro": null,
+          "metro_stations": [],
+          "id": "14444252"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-14T09:20:23+0300",
+        "created_at": "2023-12-14T09:20:23+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90671581",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90671581?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90671581",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Профильное образование (строительное, АХЦ).",
+          "responsibility": "Обеспечивать санаторий-профилакторий необходимыми для его деятельности материальными ресурсами; разрабатывать текущие и перспективные планы материально-технического снабжения; составлять в установленные..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90669809",
+        "premium": false,
+        "name": "Экономист (договорная работа)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "35",
+          "name": "Иркутск",
+          "url": "https://api.hh.ru/areas/35"
+        },
+        "salary": {
+          "from": 65000,
+          "to": 75000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-14T08:45:15+0300",
+        "created_at": "2023-12-14T08:45:15+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90669809",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90669809?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90669809",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее экономическое образование. Опыт работы экономистом от 1 года (с аналогичными обязанностями).",
+          "responsibility": "Контроль за исполнением расходно-доходных договоров. Расчет цен для договоров. Взаимодействие с контрагентами."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90642141",
+        "premium": false,
+        "name": "Специалист по управлению персоналом",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "79",
+          "name": "Саратов",
+          "url": "https://api.hh.ru/areas/79"
+        },
+        "salary": {
+          "from": 40000,
+          "to": 42000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Саратов",
+          "street": "3-й Станционный проезд",
+          "building": "19А",
+          "lat": 51.516376,
+          "lng": 45.987427,
+          "description": null,
+          "raw": "Саратов, 3-й Станционный проезд, 19А",
+          "metro": null,
+          "metro_stations": [],
+          "id": "492380"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-13T12:22:09+0300",
+        "created_at": "2023-12-13T12:22:09+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90642141",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90642141?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90642141",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее или среднее образование образование по профилю должности. Опыт работы приветствуется.",
+          "responsibility": "Ведение кадрового делопроизводства. Составление графика отпусков. Формирование личных дел, внесение изменений в них, связанных с трудовой деятельностью, ведение личных карточек..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "117",
+            "name": "Специалист по кадрам"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90740531",
+        "premium": false,
+        "name": "Дежурный по залу железнодорожного вокзала",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 55000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": null,
+          "building": null,
+          "lat": 55.75396,
+          "lng": 37.620393,
+          "description": null,
+          "raw": "Москва",
+          "metro": null,
+          "metro_stations": [],
+          "id": "12926157"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-15T15:50:43+0300",
+        "created_at": "2023-12-15T15:50:43+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90740531",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90740531?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90740531",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Грамотная устная речь. Готовность работать в условиях, требующих оперативного принятия решений и четкого соблюдения инструкций. Среднее образование.",
+          "responsibility": "Осуществлять обход территории объектов дистанции. Осуществлять визуальный осмотр технического состояния пассажирских платформ. Обеспечивать высококачественное, безопасное обслуживание пассажиров и посетителей на..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90735889",
+        "premium": false,
+        "name": "Ведущий специалист по управлению персоналом",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 81000,
+          "to": null,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": null,
+          "street": null,
+          "building": null,
+          "lat": null,
+          "lng": null,
+          "description": null,
+          "raw": null,
+          "metro": {
+            "station_name": "Перово",
+            "line_name": "МЦД-3",
+            "station_id": "135.857",
+            "line_id": "135",
+            "lat": 55.735556,
+            "lng": 37.765
+          },
+          "metro_stations": [
+            {
+              "station_name": "Перово",
+              "line_name": "МЦД-3",
+              "station_id": "135.857",
+              "line_id": "135",
+              "lat": 55.735556,
+              "lng": 37.765
+            }
+          ],
+          "id": "14835071"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-15T14:21:37+0300",
+        "created_at": "2023-12-15T14:21:37+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90735889",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90735889?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90735889",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование по специальности: \"Управление персоналом\" или \"Юриспруденция\" либо любое законченное высшее образование + курсы Управление персоналом/Кадровое делопроизводство от...",
+          "responsibility": "Ведение учета личного состава работников. Оформление приема, увольнения, перемещения и перевода сотрудников. Контроль укомплектования вакансий. Участие в кадровом аудите. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90665549",
+        "premium": false,
+        "name": "Специалист по управлению персоналом",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "47",
+          "name": "Кемерово",
+          "url": "https://api.hh.ru/areas/47"
+        },
+        "salary": {
+          "from": 60000,
+          "to": 65000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Кемерово",
+          "street": "Карболитовская",
+          "building": "2",
+          "lat": 55.366966,
+          "lng": 86.0563,
+          "description": null,
+          "raw": "Кемерово, Карболитовская, 2",
+          "metro": null,
+          "metro_stations": [],
+          "id": "14292283"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-14T05:27:12+0300",
+        "created_at": "2023-12-14T05:27:12+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90665549",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90665549?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90665549",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование (\"Управление персоналом\"). Опыт работы в аналогичной должности от 3-х лет. Знание основ трудового, гражданского и архивного законодательства...",
+          "responsibility": "Ведение КДП в программе ЕКАСУТР (база данных по ведению учета, движению персонала). Оформление документов в соответствии с требованиями трудового законодательства..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90630911",
+        "premium": false,
+        "name": "Проводник пассажирских вагонов",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 107000,
+          "to": 112000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-13T09:37:03+0300",
+        "created_at": "2023-12-13T09:37:03+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90630911",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90630911?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90630911",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование не ниже полного среднего. Наличие свидетельства о профессии ОБЯЗАТЕЛЬНО. Высокий уровень клиенториентированности. Готовность к длительным командировкам.",
+          "responsibility": "Прием и подготовка вагона к рейсу. Контроль посадки и высадки пассажиров. Обеспечение чистоты и порядка в вагоне. Предоставление пассажирам клиентского..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90728714",
+        "premium": false,
+        "name": "Администратор проектов (офис)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Москва",
+          "street": "улица Маши Порываевой",
+          "building": "7сА",
+          "lat": 55.773292,
+          "lng": 37.646265,
+          "description": null,
+          "raw": "Москва, улица Маши Порываевой, 7сА",
+          "metro": null,
+          "metro_stations": [],
+          "id": "5741652"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-15T12:04:48+0300",
+        "created_at": "2023-12-15T12:04:48+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90728714",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90728714?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90728714",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование. Опыт работы от года в области управления ИТ проектами ОАО \"РЖД\" или в ФОИВ. Знания и опыт в...",
+          "responsibility": "Мониторинг и контроль соблюдения планов по проектам с целью выявления отклонений показателей от выполнения запланированных значений, анализ отклонений и эскалация..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "107",
+            "name": "Руководитель проектов"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90557764",
+        "premium": false,
+        "name": "Специалист по сопровождению договорной работы технического отдела",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": null,
+          "street": null,
+          "building": null,
+          "lat": null,
+          "lng": null,
+          "description": null,
+          "raw": null,
+          "metro": {
+            "station_name": "Курская",
+            "line_name": "Арбатско-Покровская",
+            "station_id": "3.70",
+            "line_id": "3",
+            "lat": 55.758564,
+            "lng": 37.659039
+          },
+          "metro_stations": [
+            {
+              "station_name": "Курская",
+              "line_name": "Арбатско-Покровская",
+              "station_id": "3.70",
+              "line_id": "3",
+              "lat": 55.758564,
+              "lng": 37.659039
+            },
+            {
+              "station_name": "Курская",
+              "line_name": "Кольцевая",
+              "station_id": "5.71",
+              "line_id": "5",
+              "lat": 55.758631,
+              "lng": 37.661059
+            },
+            {
+              "station_name": "Курская",
+              "line_name": "МЦД - 2",
+              "station_id": "132.726",
+              "line_id": "132",
+              "lat": 55.757622,
+              "lng": 37.660767
+            }
+          ],
+          "id": "11186215"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-11T13:45:27+0300",
+        "created_at": "2023-12-11T13:45:27+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90557764",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90557764?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90557764",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее (техническое) образование. Опыт работы от года с подобным функционалом. Навыки ведения и сопровождения договорной и документарной работы. ",
+          "responsibility": "Заключение и сопровождение договоров на приобретение материалов, сервисное и послегарантийное обслуживание и программных продуктов. Ведение договорной работы, в том числе..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "33",
+            "name": "Делопроизводитель, архивариус"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90635030",
+        "premium": false,
+        "name": "Оператор ПК",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "25",
+          "name": "Вологда",
+          "url": "https://api.hh.ru/areas/25"
+        },
+        "salary": {
+          "from": 43000,
+          "to": 43000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-13T10:41:01+0300",
+        "created_at": "2023-12-13T10:41:01+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90635030",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90635030?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90635030",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование не ниже среднего общего (11 классов). Наличие свидетельства о присвоении профессии \"оператор по обслуживанию и ремонту вагонов и контейнеров...",
+          "responsibility": "Дистанционная проверка тормозной системы вагонов и контейнеров, контроль их технического обслуживания. Ведение графика обслуживания и оформление соответствующей документации."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "84",
+            "name": "Оператор ПК, оператор базы данных"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "89555366",
+        "premium": false,
+        "name": "Сигналист железнодорожной станции",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "2",
+          "name": "Санкт-Петербург",
+          "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+          "from": 74000,
+          "to": 77000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Санкт-Петербург",
+          "street": "Сортировочная-Московская улица",
+          "building": null,
+          "lat": 59.867886,
+          "lng": 30.428211,
+          "description": null,
+          "raw": "Санкт-Петербург, Сортировочная-Московская улица",
+          "metro": {
+            "station_name": "Ломоносовская",
+            "line_name": "Невско-Василеостровская",
+            "station_id": "16.233",
+            "line_id": "16",
+            "lat": 59.877342,
+            "lng": 30.441715
+          },
+          "metro_stations": [
+            {
+              "station_name": "Ломоносовская",
+              "line_name": "Невско-Василеостровская",
+              "station_id": "16.233",
+              "line_id": "16",
+              "lat": 59.877342,
+              "lng": 30.441715
+            }
+          ],
+          "id": "6313459"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-12T14:00:17+0300",
+        "created_at": "2023-12-12T14:00:17+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=89555366",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/89555366?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/89555366",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование 9 классов.",
+          "responsibility": "Закрепление подвижного состава на путях. Проверка правильности подготовки маршрута движения поездов. Подача звуковых и видимых сигналов при приеме/ отправлении/пропуске..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90593882",
+        "premium": false,
+        "name": "Специалист по закупкам (организация закупок)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": null,
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": null,
+          "street": null,
+          "building": null,
+          "lat": null,
+          "lng": null,
+          "description": null,
+          "raw": null,
+          "metro": {
+            "station_name": "Курская",
+            "line_name": "Арбатско-Покровская",
+            "station_id": "3.70",
+            "line_id": "3",
+            "lat": 55.758564,
+            "lng": 37.659039
+          },
+          "metro_stations": [
+            {
+              "station_name": "Курская",
+              "line_name": "Арбатско-Покровская",
+              "station_id": "3.70",
+              "line_id": "3",
+              "lat": 55.758564,
+              "lng": 37.659039
+            },
+            {
+              "station_name": "Курская",
+              "line_name": "Кольцевая",
+              "station_id": "5.71",
+              "line_id": "5",
+              "lat": 55.758631,
+              "lng": 37.661059
+            },
+            {
+              "station_name": "Курская",
+              "line_name": "МЦД - 2",
+              "station_id": "132.726",
+              "line_id": "132",
+              "lat": 55.757622,
+              "lng": 37.660767
+            }
+          ],
+          "id": "11186215"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-14T10:24:54+0300",
+        "created_at": "2023-12-14T10:24:54+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90593882",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90593882?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90593882",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование (экономическое, юридическое или техническое образование). Опыт работы по профилю деятельности не менее 1 года ( желательно в холдинговых компаниях). ",
+          "responsibility": "Организация и проведение закупок товаров, работ, услуг для нужд дочерних и зависимых обществ компании по 223-ФЗ \". Рассмотрение и анализ..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "66",
+            "name": "Менеджер по закупкам"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90629698",
+        "premium": false,
+        "name": "Дежурный по переезду",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "2",
+          "name": "Санкт-Петербург",
+          "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+          "from": 50000,
+          "to": null,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-13T09:17:12+0300",
+        "created_at": "2023-12-13T09:17:12+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90629698",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90629698?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90629698",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": null,
+          "responsibility": "Регулирование движения по железнодорожному переезду всех видов транспорта. Контроль работы устройств на железнодорожном переезде. Обеспечение мер безопасности при аварийной обстановке..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90635319",
+        "premium": false,
+        "name": "Оператор ПК",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1753",
+          "name": "Череповец",
+          "url": "https://api.hh.ru/areas/1753"
+        },
+        "salary": {
+          "from": 46000,
+          "to": 46000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": null,
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-13T10:43:54+0300",
+        "created_at": "2023-12-13T10:43:54+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90635319",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90635319?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90635319",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Образование не ниже среднего общего (11 классов). Наличие свидетельства о присвоении профессии \"оператор по обслуживанию и ремонту вагонов и контейнеров...",
+          "responsibility": "Дистанционная проверка тормозной системы вагонов и контейнеров, контроль их технического обслуживания. Ведение графика обслуживания и оформление соответствующей документации."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "84",
+            "name": "Оператор ПК, оператор базы данных"
+          }
+        ],
+        "accept_incomplete_resumes": true,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90143482",
+        "premium": false,
+        "name": "Экипировщик",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "1",
+          "name": "Москва",
+          "url": "https://api.hh.ru/areas/1"
+        },
+        "salary": {
+          "from": 67000,
+          "to": 69000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": null,
+          "street": null,
+          "building": null,
+          "lat": null,
+          "lng": null,
+          "description": null,
+          "raw": null,
+          "metro": {
+            "station_name": "Проспект Мира",
+            "line_name": "Кольцевая",
+            "station_id": "5.119",
+            "line_id": "5",
+            "lat": 55.779584,
+            "lng": 37.633646
+          },
+          "metro_stations": [
+            {
+              "station_name": "Проспект Мира",
+              "line_name": "Кольцевая",
+              "station_id": "5.119",
+              "line_id": "5",
+              "lat": 55.779584,
+              "lng": 37.633646
+            }
+          ],
+          "id": "3372262"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-11-30T12:03:26+0300",
+        "created_at": "2023-11-30T12:03:26+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90143482",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90143482?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90143482",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Среднее полное общее образование. Отсутствие медицинский противопоказаний к работе (предусмотрено прохождение медицинской комиссии перед трудоустройством).",
+          "responsibility": "Экипировка пассажирских вагонов твёрдым и жидким топливом, водой, постельным бельём, съемным инвентарем, оборудованием, расходными материалами, продуктами питания и пр. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "shift",
+          "name": "Сменный график"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "31",
+            "name": "Грузчик"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90713728",
+        "premium": false,
+        "name": "Техник (нормирование труда)",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "68",
+          "name": "Омск",
+          "url": "https://api.hh.ru/areas/68"
+        },
+        "salary": {
+          "from": 40000,
+          "to": 42000,
+          "currency": "RUR",
+          "gross": false
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Омск",
+          "street": "Батумская",
+          "building": "27",
+          "lat": 54.923021,
+          "lng": 73.47327,
+          "description": null,
+          "raw": "Омск, Батумская, 27",
+          "metro": null,
+          "metro_stations": [],
+          "id": "14280458"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-15T07:39:05+0300",
+        "created_at": "2023-12-15T07:39:05+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90713728",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90713728?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90713728",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Высшее образование. Опыт работы от 1 года. Владение ПК.",
+          "responsibility": "Ведение вопросов по организации и нормированию труда. Обработка табеля рабочего времени. Ввод нормативных заданий в корпоративную систему. Выполнение поручений, подготовка..."
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "40",
+            "name": "Другое"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "between1And3",
+          "name": "От 1 года до 3 лет"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      },
+      {
+        "id": "90736370",
+        "premium": false,
+        "name": "Секретарь",
+        "department": null,
+        "has_test": false,
+        "response_letter_required": false,
+        "area": {
+          "id": "2",
+          "name": "Санкт-Петербург",
+          "url": "https://api.hh.ru/areas/2"
+        },
+        "salary": {
+          "from": 40000,
+          "to": 40000,
+          "currency": "RUR",
+          "gross": true
+        },
+        "type": {
+          "id": "open",
+          "name": "Открытая"
+        },
+        "address": {
+          "city": "Санкт-Петербург",
+          "street": "Политехническая улица",
+          "building": "31",
+          "lat": 60.009611,
+          "lng": 30.369893,
+          "description": null,
+          "raw": "Санкт-Петербург, Политехническая улица, 31",
+          "metro": null,
+          "metro_stations": [],
+          "id": "14835124"
+        },
+        "response_url": null,
+        "sort_point_distance": null,
+        "published_at": "2023-12-15T14:31:36+0300",
+        "created_at": "2023-12-15T14:31:36+0300",
+        "archived": false,
+        "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=90736370",
+        "branding": {
+          "type": "MAKEUP",
+          "tariff": null
+        },
+        "show_logo_in_search": true,
+        "insider_interview": null,
+        "url": "https://api.hh.ru/vacancies/90736370?host=hh.ru",
+        "alternate_url": "https://hh.ru/vacancy/90736370",
+        "relations": [],
+        "employer": {
+          "id": "23427",
+          "name": "Российские железные дороги",
+          "url": "https://api.hh.ru/employers/23427",
+          "alternate_url": "https://hh.ru/employer/23427",
+          "logo_urls": {
+            "90": "https://hhcdn.ru/employer-logo/314432.png",
+            "original": "https://hhcdn.ru/employer-logo-original/227200.gif",
+            "240": "https://hhcdn.ru/employer-logo/387289.png"
+          },
+          "vacancies_url": "https://api.hh.ru/vacancies?employer_id=23427",
+          "accredited_it_employer": false,
+          "trusted": true
+        },
+        "snippet": {
+          "requirement": "Опыт работы в структурных подразделениях ОАО «РЖД» будет преимуществом. Навыки систематизации и учета, умение расставлять приоритеты в решении поставленных задач. ",
+          "responsibility": "Работа с внутренней почтой предприятия( получение, рассылка, контроль исполнения). Ведение переписки по вопросам руководителя. Ведение работы по организации приема посетителей. "
+        },
+        "contacts": null,
+        "schedule": {
+          "id": "fullDay",
+          "name": "Полный день"
+        },
+        "working_days": [],
+        "working_time_intervals": [],
+        "working_time_modes": [],
+        "accept_temporary": false,
+        "professional_roles": [
+          {
+            "id": "110",
+            "name": "Секретарь, помощник руководителя, ассистент"
+          }
+        ],
+        "accept_incomplete_resumes": false,
+        "experience": {
+          "id": "noExperience",
+          "name": "Нет опыта"
+        },
+        "employment": {
+          "id": "full",
+          "name": "Полная занятость"
+        },
+        "adv_response_url": null,
+        "is_adv_vacancy": false,
+        "adv_context": null
+      }
+    ],
+    "found": 1901,
+    "pages": 96,
+    "page": 0,
+    "per_page": 20,
+    "clusters": null,
+    "arguments": null,
+    "fixes": null,
+    "suggests": null,
+    "alternate_url": "https://hh.ru/search/vacancy?employer_id=23427&enable_snippets=true"
+  }
+]
