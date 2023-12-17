@@ -47,7 +47,18 @@ class DBManager:
         try:
             with self.conn.cursor() as cur:
                 cur.execute("""
-                    SELECT e.name AS company_name, v.name AS vacancy_name, v.salary_from, v.salary_to, v.url
+                    SELECT e.name AS company_name, v.name AS vacancy_name, 
+                           CASE 
+                               WHEN v.salary_from IS NOT NULL AND v.salary_to IS NOT NULL THEN 
+                                   'Зарплата от: ' || v.salary_from::TEXT || ', Зарплата до: ' || v.salary_to::TEXT || ' ' || v.currency
+                               WHEN v.salary_from IS NOT NULL THEN 
+                                   'Зарплата от: ' || v.salary_from::TEXT || ' ' || v.currency
+                               WHEN v.salary_to IS NOT NULL THEN 
+                                   'Зарплата до: ' || v.salary_to::TEXT || ' ' || v.currency
+                               ELSE 'Зарплата не указана' 
+                           END AS salary_info,
+                           v.currency,
+                           v.url
                     FROM Employers e
                     JOIN Vacancies v ON e.emp_id = v.employer_id;
                 """)
@@ -63,7 +74,7 @@ class DBManager:
                 cur.execute("""
                     SELECT ROUND(AVG((CAST(salary_from AS NUMERIC) + CAST(salary_to AS NUMERIC)) / 2)) AS average_salary
                     FROM Vacancies
-                    WHERE salary_from IS NOT NULL AND salary_to IS NOT NULL;
+                    WHERE salary_from IS NOT NULL AND salary_to IS NOT NULL AND currency = 'RUR';
                 """)
                 result = cur.fetchone()[0]
         except psycopg2.Error as e:
@@ -77,10 +88,20 @@ class DBManager:
             try:
                 with self.conn.cursor() as cur:
                     cur.execute("""
-                        SELECT e.name AS company_name, v.name AS vacancy_name, v.salary_from, v.salary_to, v.url
+                        SELECT e.name AS company_name, v.name AS vacancy_name, 
+                               CASE 
+                                   WHEN v.salary_from IS NOT NULL AND v.salary_to IS NOT NULL THEN 
+                                       'Зарплата от: ' || v.salary_from::TEXT || ', Зарплата до: ' || v.salary_to::TEXT || ' ' || v.currency
+                                   WHEN v.salary_from IS NOT NULL THEN 
+                                       'Зарплата от: ' || v.salary_from::TEXT || ' ' || v.currency
+                                   WHEN v.salary_to IS NOT NULL THEN 
+                                       'Зарплата до: ' || v.salary_to::TEXT || ' ' || v.currency
+                                   ELSE 'Зарплата не указана' 
+                               END AS salary_info,
+                               v.url
                         FROM Employers e
                         JOIN Vacancies v ON e.emp_id = v.employer_id
-                        WHERE (v.salary_to > %s OR v.salary_from > %s)
+                        WHERE (v.salary_to > %s OR v.salary_from > %s) AND v.currency = 'RUR';
                     """, (avg_salary, avg_salary))
                     result = cur.fetchall()
             except psycopg2.Error as e:
@@ -92,7 +113,17 @@ class DBManager:
         try:
             with self.conn.cursor() as cur:
                 cur.execute("""
-                    SELECT e.name AS company_name, v.name AS vacancy_name, v.salary_from, v.salary_to, v.url
+                    SELECT e.name AS company_name, v.name AS vacancy_name, 
+                           CASE 
+                               WHEN v.salary_from IS NOT NULL AND v.salary_to IS NOT NULL THEN 
+                                   'Зарплата от: ' || v.salary_from::TEXT || ', Зарплата до: ' || v.salary_to::TEXT || ' ' || v.currency
+                               WHEN v.salary_from IS NOT NULL THEN 
+                                   'Зарплата от: ' || v.salary_from::TEXT || ' ' || v.currency
+                               WHEN v.salary_to IS NOT NULL THEN 
+                                   'Зарплата до: ' || v.salary_to::TEXT || ' ' || v.currency
+                               ELSE 'Зарплата не указана' 
+                           END AS salary_info,
+                           v.url
                     FROM Employers e
                     JOIN Vacancies v ON e.emp_id = v.employer_id
                     WHERE LOWER(v.name) LIKE %s;

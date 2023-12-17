@@ -2,6 +2,7 @@ import psycopg2
 from classes.api import HeadhunterAPI
 from variables import *
 
+
 # Получение данных от Headhunter API
 hh_api = HeadhunterAPI(EMPLOYERS_ID_LIST)
 hh_employers_data = hh_api.get_employers()
@@ -30,8 +31,8 @@ try:
             for vacancy in hh_vacancies_data:
                 for item in vacancy['items']:
                     curr.execute("""
-                        INSERT INTO Vacancies (vac_id, employer_id, name, salary_from, salary_to, url)
-                        VALUES (%s, %s, %s, %s, %s, %s)
+                        INSERT INTO Vacancies (vac_id, employer_id, name, salary_from, salary_to, currency, url)
+                        VALUES (%s, %s, %s, %s, %s, %s, %s)
                         ON CONFLICT (vac_id) DO NOTHING;  -- Если вакансия уже существует, игнорируем вставку
                     """, (
                         item['id'],
@@ -39,6 +40,7 @@ try:
                         item.get('name'),
                         item['salary']['from'] if item.get('salary') else None,
                         item['salary']['to'] if item.get('salary') else None,
+                        item['salary']['currency'] if item['salary'] and item['salary'].get('currency') else None,
                         item.get('url')
                     ))
 
