@@ -24,11 +24,13 @@ for vacancy in all_vacancies:
 avg_salary = db_manager.get_avg_salary()
 print(f"\nСредняя зарплата по вакансиям: {avg_salary} рублей")
 
+
 # Получение вакансий с зарплатой выше средней
 higher_salary_vacancies = db_manager.get_vacancies_with_higher_salary()
 print("\nВакансии с зарплатой выше среднего:")
 for vacancy in higher_salary_vacancies:
     print(f"Компания: {vacancy[0]}, Вакансия: {vacancy[1]}, {vacancy[2]}, Ссылка: {vacancy[3]}")
+
 
 # Получение вакансий по ключевому слову
 vac_keyword = 'python'
@@ -36,6 +38,7 @@ keyword_vacancies = db_manager.get_vacancies_with_keyword(vac_keyword)
 print(f"\nВакансии по ключевому слову '{vac_keyword}':")
 for vacancy in keyword_vacancies:
     print(f"Компания: {vacancy[0]}, Вакансия: {vacancy[1]}, {vacancy[2]}, Ссылка: {vacancy[3]}")
+
 
 # Отключение от БД
 db_manager.disconnect()
