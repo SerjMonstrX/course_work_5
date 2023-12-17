@@ -1,37 +1,22 @@
 import psycopg2
-import json
-from classes.jsonhandler import HeadhunterJson
 from classes.api import HeadhunterAPI
 from variables import *
 
+# Получение данных от Headhunter API
 hh_api = HeadhunterAPI(EMPLOYERS_ID_LIST)
 hh_employers_data = hh_api.get_employers()
 hh_vacancies_data = hh_api.get_vacancies()
-for vacancy in hh_vacancies_data:
-    print(vacancy.get('name'))
-# Преобразование полученных данных в формат JSON с отступами для красивого вывода
-formatted_data = json.dumps(hh_vacancies_data, indent=4, ensure_ascii=False)
-
-json_company_data = HeadhunterJson()
-json_vacancies_data = HeadhunterJson(filename='hh_vacancies_data.json')
-
-json_company_data.save_to_json(hh_employers_data)
-json_vacancies_data.save_to_json(hh_vacancies_data)
-
-"""----------------------------------------------------"""
-
 
 conn = psycopg2.connect(host='localhost', database='Headhunter', user='postgres', password=PGSQL_PASS)
 try:
     with conn:
         with conn.cursor() as curr:
-            hh_api = HeadhunterAPI(EMPLOYERS_ID_LIST)
-            employers_data = hh_api.get_employers()
-            vacancies_data = hh_api.get_vacancies()
-            for employer in employers_data:
+            # Вставка данных о работодателях
+            for employer in hh_employers_data:
                 curr.execute("""
                     INSERT INTO Employers (emp_id, name, site_url, hh_url, vacancies_url, open_vacancies)
-                    VALUES (%s, %s, %s, %s, %s, %s);
+                    VALUES (%s, %s, %s, %s, %s, %s)
+                    ON CONFLICT (emp_id) DO NOTHING;  -- Если работодатель уже существует, игнорируем вставку
                 """, (
                     employer['id'],
                     employer['name'],
@@ -40,20 +25,21 @@ try:
                     employer['vacancies_url'],
                     employer['open_vacancies']
                 ))
-                employer_id = curr.fetchone()[0]
 
-                for vacancy in vacancies_data[1]['items']:
-
+            # Вставка данных о вакансиях
+            for vacancy in hh_vacancies_data:
+                for item in vacancy['items']:
                     curr.execute("""
                         INSERT INTO Vacancies (vac_id, employer_id, name, salary_from, salary_to, url)
-                        VALUES (%s, %s, %s, %s, %s, %s);
+                        VALUES (%s, %s, %s, %s, %s, %s)
+                        ON CONFLICT (vac_id) DO NOTHING;  -- Если вакансия уже существует, игнорируем вставку
                     """, (
-                        vacancy['id'],
-                        vacancy['employer']['id'],
-                        vacancy.get('name'),
-                        vacancy['salary']['from'] if vacancy.get('salary') else None,
-                        vacancy['salary']['to'] if vacancy.get('salary') else None,
-                        vacancy.get('url')
+                        item['id'],
+                        item['employer']['id'],
+                        item.get('name'),
+                        item['salary']['from'] if item.get('salary') else None,
+                        item['salary']['to'] if item.get('salary') else None,
+                        item.get('url')
                     ))
 
 except psycopg2.Error as e:
