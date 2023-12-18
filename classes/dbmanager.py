@@ -1,5 +1,6 @@
 import psycopg2
 
+
 class DBManager:
     def __init__(self, dbname, user, password, host='localhost', port='5432'):
         self.dbname = dbname
@@ -10,6 +11,7 @@ class DBManager:
         self.conn = None
 
     def connect(self):
+        """Метод для подключения к БД"""
         try:
             self.conn = psycopg2.connect(
                 dbname=self.dbname,
@@ -23,11 +25,13 @@ class DBManager:
             print(f"Error: {e}")
 
     def disconnect(self):
+        """Метод для отключения от БД"""
         if self.conn:
             self.conn.close()
             print("Disconnected from the database")
 
     def get_companies_and_vacancies_count(self):
+        """Метод получает список всех компаний и количество вакансий у каждой компании"""
         result = []
         try:
             with self.conn.cursor() as cur:
@@ -43,6 +47,10 @@ class DBManager:
         return result
 
     def get_all_vacancies(self):
+        """
+        Метод получает список всех вакансий с указанием названия компании,
+        названия вакансии и зарплаты и ссылки на вакансию
+        """
         result = []
         try:
             with self.conn.cursor() as cur:
@@ -68,6 +76,7 @@ class DBManager:
         return result
 
     def get_avg_salary(self):
+        """Метод получает среднюю зарплату по вакансиям"""
         result = None
         try:
             with self.conn.cursor() as cur:
@@ -82,6 +91,7 @@ class DBManager:
         return result
 
     def get_vacancies_with_higher_salary(self):
+        """Метод получает список всех вакансий, у которых зарплата выше средней по всем вакансиям"""
         avg_salary = self.get_avg_salary()
         result = []
         if avg_salary:
@@ -109,6 +119,7 @@ class DBManager:
         return result
 
     def get_vacancies_with_keyword(self, keyword):
+        """Метод получает список всех вакансий, в названии которых содержатся переданные в метод слова"""
         result = []
         try:
             with self.conn.cursor() as cur:
