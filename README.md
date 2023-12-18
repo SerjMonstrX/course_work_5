@@ -5,25 +5,35 @@
 
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/your-username/headhunter-data-extraction.git
+   https://github.com/SerjMonstrX/course_work_5.git
 
 2. Установить зависимости, используя Poetry:
-  poetry install
+
+       poetry install
 
 3. Настройка PostgreSQL:
+
 Создайте базу данных PostgreSQL с именем Headhunter.
 Установите соответствующие учетные данные в файле variables.py.
 
-### Структура
+## Структура
 
-'classes/': Содержит api.py, в котором описан класс HeadhunterAPI, используемый для взаимодействия с API, 
-            а также dbmanager.py, в котором описан класс DBManager, имеющий методы согласно ТЗ.
+'classes/': 
+
+Содержит api.py, в котором описан класс HeadhunterAPI, используемый для взаимодействия с API,
+а также dbmanager.py, в котором описан класс DBManager, имеющий методы согласно ТЗ.
+
 'src/':
+
 variables.py: Хранит ID компаний для запроса и записи данных и пароль для доступа к БД, который необходимо заменить на свой.
+
 main.py: Основной скрипт для извлечения и сохранения данных из API Headhunter.
+
 dbmethods.py: Скрипт для проверки работы и вывода методов класса DBManager.
 
-#### Запуск
+## Запуск
 Для начала работы запустите скрипт main.py, чтобы извлечь и сохранить данные из API Headhunter в базу данных.
+
 Используйте PostgreSQL для изучения базы данных Headhunter.
+
 Запустите скрипт dbmethods.py для получения данных используя методы DBManager.
